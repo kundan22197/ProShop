@@ -1,29 +1,32 @@
 # ProShop
 
-ProShop is a completely customized eCommerce / shopping cart application from scratch with the MERN (MongoDB, Express Framework, React.js, Redux.js, Node.js) stack with the following functionality...
+ProShop is a completely customized eCommerce / shopping cart application from scratch built using the MERN (MongoDB, Express Framework, React.js, Redux.js, Node.js) stack and has the following functionalities...
 
-Full featured shopping cart
+1. Full featured shopping cart
 
-Product reviews and ratings
+2. Product reviews and ratings
 
-Top products carousel
+3. Top products carousel
 
-Product pagination
+4. Product pagination
 
-Product search feature
+5. Product search feature
 
-User profile with orders
+6. User profile with orders
 
-Admin product management
+7. Admin product management
 
-Admin user management
+8. Admin user management
 
-Admin Order details page
+9. Admin Order details page
 
-Mark orders as delivered option
+10. Mark orders as delivered option
 
-Checkout process (shipping, payment method, etc)
+11. Checkout process (shipping, payment method, etc)
 
-PayPal / credit card integration
+12. PayPal / credit card integration
 
-Custom database seeder script
+13. Custom database seeder script
+
+
+The web application has been deployed on the heroku and can be accessed at : http://pro-shop-e-comm.herokuapp.com/ 
