@@ -17,4 +17,4 @@ ProShop is a completely customized eCommerce / shopping cart application from sc
 13. Custom database seeder script
 
 
-The web application has been deployed on the heroku and can be accessed at : http://pro-shop-e-comm.herokuapp.com/ 
+The web application has been deployed on the heroku and can be accessed at : https://pro-shop-e-comm.herokuapp.com/ 
